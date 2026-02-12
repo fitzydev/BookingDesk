@@ -3,6 +3,9 @@
 
 A Discord bot that automatically scrapes public jail booking records and posts them to a configured channel on a customizable interval. Users can subscribe to specific counties and receive DM notifications when new bookings appear. This is just a fun project I threw together to help people stay informed about their community and to educate people on axios and cheerio usage!
 
+⭐ Add a star to support me in my active development in this project, I will never accept donations for any of my projects I release in the future until further notice. 
+
+
 ## Features
 
 - **Automatic scraping** — Periodically fetches new booking records and posts them as styled Discord embeds with colour-coded cards, icons, and batch summary headers
