@@ -21,21 +21,21 @@ A Discord bot that automatically scrapes public jail booking records and posts t
 
 | State | Counties |
 |---|---|
-| Alabama - Autauga, Cherokee, Escambia, Etowah, Franklin, Jefferson, Marshall,   Morgan, St Clair |
-| Arizona - Greene, Yuma |
-| Arkansas - Baxter, Columbia, Jefferson, Mississippi, Poinsett |
-| California - Mendocino, Merced |
-| Florida - Flagler |
-| Illinois - Kendall, Macon |
-| Indiana - Madison |
-| Kansas - Bourbon, Geary, Leavenworth |
-| Mississippi - Jones, Kemper |
-| Missouri - Andrew, Benton, Buchanan, Callaway, Camden, Cape Girardeau, Johnson |
-| New Mexico - San Juan |
-| Ohio - Hancock, Muskingum |
-| Texas - Bell, Kendall, Tom Green |
-| Virginia - Chesapeake |
-| Wisconsin - Kenosha |
+| Alabama |Autauga, Cherokee, Escambia, Etowah, Franklin, Jefferson, Marshall,   Morgan, St Clair |
+| Arizona |Greene, Yuma |
+| Arkansas |Baxter, Columbia, Jefferson, Mississippi, Poinsett |
+| California |Mendocino, Merced |
+| Florida |Flagler |
+| Illinois |Kendall, Macon |
+| Indiana |Madison |
+| Kansas |Bourbon, Geary, Leavenworth |
+| Mississippi |Jones, Kemper |
+| Missouri |Andrew, Benton, Buchanan, Callaway, Camden, Cape Girardeau, Johnson |
+| New Mexico |San Juan |
+| Ohio |Hancock, Muskingum |
+| Texas |Bell, Kendall, Tom Green |
+| Virginia |Chesapeake |
+| Wisconsin |Kenosha |
 
 ## Project Structure
 
