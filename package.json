@@ -1,0 +1,16 @@
+{
+  "name": "booking-desk",
+  "version": "1.0.0",
+  "description": "Discord bot that scrapes public jail booking records and posts to channels with DM subscription support",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "cheerio": "^1.0.0",
+    "discord.js": "^14.16.0",
+    "dotenv": "^17.2.4"
+  }
+}

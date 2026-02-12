@@ -1,0 +1,7 @@
+node_modules/
+package-lock.json
+
+
+# Runtime data (keep the folder, ignore contents)
+data/*
+!data/.gitkeep1
